@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Pedro%20Yuri&fontAlignY=40&color=0:5ac318,100:000cff&fontColor=fff)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Pedro%20Yuri&fontAlignY=40&color=0:000000,100:ff0000&fontColor=fff)
 
 <h1 align="center">Hi 👋, I'm Pedro Yuri!</h1>
 <h3 align="center">A passionate SOC Analyst from Brazil!</h3>
