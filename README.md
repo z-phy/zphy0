@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Pedro Yuri</h1>
+<h1>Hi 👋, I'm Pedro</h1>
 <h3>A passionate SOC analyst</h3>
 
 </br>
