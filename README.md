@@ -22,8 +22,6 @@
 
 <p align="justify">Sou palestrante, adoro aprender coisas novas, trabalhar em equipes e ter novas experiências, quero trabalhar fora do Brasil, aprimorar meu inglês e conhecer novas culturas, pessoas e ter novas experiências! Atualmente cursando Redes de Computadores. Dedico meu tempo aos estudos para me tornar um pentester, um analista e desenvolvedor de exploits, um analista de malware e um engenheiro reverso melhor a cada dia.</p>
 
-<p align="justify">Vamos tomar um café, estou sempre aberto a aprender coisas novas e discutir ideias malucas. Você pode entrar em contato comigo em: <a href=mailto:pedroyurii.alu.lmb@gmail.com>pedroyurii.alu.lmb@gmail.com</a></p>
-
 Possuo sólidos conhecimentos em:
 <ul>
         <li>
