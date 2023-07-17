@@ -151,10 +151,10 @@ Possuo as seguintes certificações:
       <h3>Outros lugares onde você pode me encontrar:</h3>
       <ul>
         <li>
-          📷 <a href="https://www.instagram.com/pd_yuri/">Siga me no Instagram</a>
+          📷 <a href="https://www.linkedin.com/in/pedro-yuri-47391b232/">Siga me no Linkedin</a>
         </li>
         <li>
-          📬 <a href=mailto:pedroyurii.alu.lmb@gmail.com>Entre em contato comigo no e-mail</a>
+          📬 <a href="https://www.linkedin.com/in/pedro-yuri-47391b232/">Entre em contato comigo no Linkedin</a>
         </li>
       </ul>
     </td>
