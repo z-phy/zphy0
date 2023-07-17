@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **personal projects**
 
-- 🌱 I’m currently learning **C, Python, etc.**
+- 🌱 I’m currently learning **C, Python, GO, etc.**
 
 - 👯 I’m looking to collaborate on **ONG's**
 
