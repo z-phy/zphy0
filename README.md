@@ -34,9 +34,6 @@ Possuo sólidos conhecimentos em:
           Implantação, administração e gerenciamento de redes de computadores.
         </li>
         <li>
-          implantação, administração e gerenciamento de servidores Windows, Linux e MacOS. 
-        </li>
-        <li>
           Implementação, administração e gerenciamento de sistemas de bancos de dados. 
         </li>
         <li>
@@ -44,9 +41,6 @@ Possuo sólidos conhecimentos em:
         </li>
         <li>
           Programação em linguagem Shell Script.
-        </li>
-        <li>
-          Programação em linguagem PowerShell.
         </li>
         <li>
           Programação em linguagem Python.
@@ -59,9 +53,6 @@ Possuo sólidos conhecimentos em:
         </li>
         <li>
           Criptografia, criptoanálise e segurança de redes.
-        </li>
-        <li>
-          Análise forense de redes e sistemas.
         </li>
         <li>
           Penetration testing.
