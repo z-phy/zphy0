@@ -42,12 +42,6 @@ Possuo sólidos conhecimentos em:
         <li>
           Desenvolvimento Web com HTML, CSS e Javascript. 
         </li>
-        <li> 
-        </li>
-        <li>
-        </li>
-        <li>
-        </li>
         <li>
           Programação em linguagem Shell Script.
         </li>
