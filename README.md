@@ -42,14 +42,11 @@ Possuo sólidos conhecimentos em:
         <li>
           Desenvolvimento Web com HTML, CSS e Javascript. 
         </li>
-        <li>
-          Programação em linguagem PHP. 
+        <li> 
         </li>
         <li>
-          Programação em linguagem C/C++.
         </li>
         <li>
-          Programação em linguagem Assembly.
         </li>
         <li>
           Programação em linguagem Shell Script.
